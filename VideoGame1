@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Fantasy 7 - Game Details</title> 
+</head> 
+<body> 
+
+<header>
+    <h1>Branched Page</h1> 
+</header> 
+
+<div class="container"> 
+    <h2>Final Fantasy 7</h2>
+    <p>Final Fantasy 7 is a 1997 Japanese Roleplaying game developed by Square Enix (referred to as Square at the time of release). 
+        It revolves around the character Cloud, as well as the eco-terrorist agency "Avalanche". The game has a variety of subjects, 
+        with the most important ones being environmentalism and the perils of capitalism. The game demonstrates these with the characterizations 
+        of the 2 antagonists, Sephiroth and Shinra Incorporated.
+        
+        Shinra is the stereotypical big bad company, with their main income being the draining of the literal lifeblood of the planet, called Mako, 
+        for fuel. They make so much money, that they essentially own their country of origin, Midgar, the richest country on Gaia, their planet. 
+        Because of this, most of the world they're in is run by Shinra. They even have their own military, going as far as conducting human experiments
+         to create super-soldiers.
+    
+        
+        Another subject of the game's story is memory, mainly memory loss. Neither Cloud nor Sephiroth can remember a large portion of their past,
+         with both of their character arcs revolving around the discovery of who they are and were. They are essentially two sides of the exact same 
+         coin. Cloud's discovery drives him to gain confidence in himself and a willingness for teamwork, while Sephiroth's drives him to insanity. 
+         Sephiroth couldn't cope with his past, having been the product of a human experiment that technically wasn't even supposed to be alive. 
+         This insanity drives him to attempt to destroy the whole world by summoning a meteor.
+        
+        
+        His reasoning for the meteor was that he believed himself to be related, a son, of the planet, with humanity being a parasite on it. 
+        He believed that if enough souls died and returned to gaia, he could merge himself with it and both return to earth himself, as well 
+        as take control of it, becoming a god. However, one could argue that Sephiroth is a victim of Shinra, having been driven insane by both
+         Shinra's false memories, as well as his true memories being of pain and suffering.
+        
+        The main, overarching theme of Final Fantasy 7 is the inherent cruelty of a monopolistic, hypercapitalist company. It argues 
+        this through the characterization of Sephiroth as a victim of Shinra, and the violence that Shinra themselves commits upon the
+         planet and its inhabitants. The themes still stay relevant today. With the line between private company and public government 
+         being blurry as ever, as well as a dying planet, many people are turning to Final Fantasy 7 a place of solace, not out of escapism, 
+         but out of control. You can become cloud and have an impact on a world in a similar position to ours. A small group in a harsh world
+          fighting for good, and having it work. In the real world, people feel powerless. But in this fictional world, maybe we ourselves 
+          can make radical change.</p>
+    <br> <a href="index.html">Back to Main Page</a> 
+    </div>
+    </body>
+</html>

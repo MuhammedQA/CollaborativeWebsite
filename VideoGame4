@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Game 4</title> 
+</head> 
+<body> 
+
+<header>
+    <h1>Branched Page</h1> 
+</header> 
+
+<div class="container"> 
+    <h2>Title of the Branched Page</h2>
+    <p>Roblox is a 2006 sandbox game, although technically being a game engine and host. It gives players a series of tools for game development, as well as a place to host them. You can charge money for items within the game and gain real-life 
+        money for those purchases. This gives younger children, who the game is targeted towards, a chance to earn money for their 
+        hobbies, in a career normally reserved for adults with degrees and qualifications.
+        
+        The game's art style is extremely simplistic, with the characters being extremely recognizable. The art style allows almost 
+        any computer to run the game, as well as develop for it. This allows for them to sweep in a larger user base, especially among 
+        children who likely can't afford a powerful machine to run it. This also creates more brand recognition, which then goes to sweep
+         more users in.
+      
+        Like Minecraft, it spawned a large amount of attention on YouTube, allowing for more diversity in the selection of videos on the platform. 
+        This leads to a sort of intertwining of the two games,m with people sometimes confusing the two, as well as there being a massive overlap in 
+        the culture of the fanbases, as well as the fanbases themselves. Despite the large portion of its fanbase being children, the game has recently 
+        showed some popularity with adults, with one specific game, "Dress to Impress" being popular among teens and young adults.
+             
+        The game is influential alongside Minecraft, and gives the user a large amount of control that most games don't, with many people considering 
+        it technically an engine. It's recognizable well past its release, and gives children an experience in game development.</p>
+    <br> <a href="index.html">Back to Main Page</a> 
+    </div>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft - Video Game 3</title> 
+</head> 
+<body> 
+
+<header>
+    <h1>Branched Page</h1> 
+</header> 
+
+<div class="container"> 
+    <h2>Minecraft</h2>
+    <p>Minecraft is a sandbox survival game developed by Markus Persson, a Swedish programmer who went on to found Mojang to continue development, before selling the 
+        company to Microsoft, who owns the company to this day. The game was released in 2009, going through a variety of public alpha and 
+        beta builds, before the first finished version was released in 2011.
+        
+        The game was fast growing, eventually becoming the best-selling game of all time. It was popular because of the sheer amount of control 
+        it gave the player. It gives the player a series of tools, a dynamic and randomly generated world, and no end goal. It is the quintessential
+         sandbox game. That's on top of the extremely recognizable art style, being made entirely out of blocks, with pixel art for textures.
+        
+        This was helped by the growth of YouTube happening in its parallel. They grew intertwined, with Minecraft lets-plays, skits, etc becoming 
+        the most consistently viral videos. The bigger Minecraft got, the bigger YouTube got and vice-versa. This created an online subculture that 
+        essentially defined the 2010s. Minecraft song parodies, Minecraft animations, and more. People created videos about videos about minecraft, 
+        and entire careers were made off the ad revenue from them.
+        
+        The game is influential beyond belief, with the game being sold to Microsoft for a total of 1 billion dollars. The game is responsible for a 
+        large portion of 2010s internet culture, as well as some real life culture, in both the first and second hand..</p>
+    <br> <a href="index.html">Back to Main Page</a> 
+    </div>
+    </body>
+</html>
