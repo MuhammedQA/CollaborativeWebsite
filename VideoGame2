@@ -1,0 +1,37 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Game 2 - Jet Set Radio: Future</title> 
+</head> 
+<body> 
+
+<header>
+    <h1>Branched Page</h1> 
+</header> 
+
+<div class="container"> 
+    <h2>Jet Set Radio</h2>
+    <p>Jet Set Radio: Future is a 2002 action game by Actionbit under Sega. It revolves around a roller-skating 
+        gang in future Tokyo. You can tag walls, race other gangs, and fight police officers. It was for the original Xbox,
+         as the dreamcast was already discontinued. It was published in a dual case, being sold with GT 2002, a racing simulator. 
+         It has extensively stylistic cel-shaded graphics with a soundtrack produced by Hideki Naganuma.
+        
+        The game is a cult classic, with the spiritual successor, "Bomb Rush Cyberfunk", being released in 2023. 
+        Its popularization was a result of its stylistic choices, feeling almost like a celebration of 2000s youth culture. 
+        It pulled from a variety of 90s subcultures and styles such as ravers, nu-metal, and hip-hop to create what felt almost
+         like a prediction of whats to come for the decade. The rebellious nature of the characters, being cop-hating anarchist 
+         gang members, only served to fuel that feeling, with it creating a sort of modern punk.
+        
+        This was only further emphasized by the games soundtrack, being a combination of jungle, 
+        hip-hop,, punk, and more. Naganuma, the game's composer sampled western 90s rock and metal extensively, being a fan of a variety 
+        of western subcultures that at the time didn't have parallels in Japan. As a result, the values and attitude of that music was 
+        carried over into the game
+        
+        The game was an amazing love letter to 90s music and culture, as well as a tone-setter for the 2000s. It took the values of 
+        punk and applied them to Japanese ideals, as well as bringing them forward into Y2K and the future.</p>
+    <br> <a href="index.html">Back to Main Page</a> 
+    </div>
+    </body>
+</html>
