@@ -1,9 +1,35 @@
+.board{
+    border-radius: 30px;
+    padding: 10px;
+    width: 600px;
+    height: auto;
+    box-shadow: 0px 0px 10px #888;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgba(rgba(255, 255, 255, 0.027));
+    backdrop-filter: blur(80px);
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    border-left: 1px solid rgba(54, 15, 15, 0.3);
+    box-shadow: 3px 3px 3p rgba(0,0,0,0.089);
+}
+.Title{
+    text-align: center;
+    padding-top: 50px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+}
 
+.head{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    text-align: center;
+    font-size: 30px;
+}
 
 .container{
     height: 100vh;
     width: 100%;
-    background: linear-gradient(45deg,#c2c2c2, #5e5e5e, #6e6e6e,#1f1f1f);
+    background: linear-gradient(45deg,#bc99e2, #c9b6f5, #cabfdd,#ad7ad6);
     background-size: 300% 300%;
     animation: color 12s ease-in-out infinite;
 }
